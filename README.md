@@ -1,6 +1,6 @@
-# MediSense AI
+# MediPredict AI
 
-**MediSense AI** is an all-in-one disease detection app built using Streamlit and machine learning algorithms. The app can predict diseases such as heart disease, diabetes, and more based on user input data. It utilizes several machine learning models to provide accurate and efficient predictions, empowering users to assess their health risks easily.
+**MediPredict AI** is an all-in-one disease detection app built using Streamlit and machine learning algorithms. The app can predict diseases such as heart disease, diabetes, and more based on user input data. It utilizes several machine learning models to provide accurate and efficient predictions, empowering users to assess their health risks easily.
 
 ## Features
 
